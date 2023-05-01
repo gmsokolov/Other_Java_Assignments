@@ -1,4 +1,4 @@
-This folder contains Java assignmets from Karlsruhe Institute of Technlogy.
+This folder contains Java assignmets from Karlsruhe Institute of Technology.
 
 "ujoau" is the username provided to me by KIT.
 
